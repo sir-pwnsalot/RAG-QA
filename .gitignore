@@ -3,3 +3,5 @@ db/
 __pycache__/
 *.pyc
 .env
+ingestion.log
+processed_files.json
