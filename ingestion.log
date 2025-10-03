@@ -1,0 +1,85 @@
+2025-10-03 14:09:01,656 - INFO - --- Starting ingestion process ---
+2025-10-03 14:09:01,657 - INFO - Scanning directory: Documents
+2025-10-03 14:09:01,658 - INFO - Loading new/modified file: Documents\test.md
+2025-10-03 14:09:05,746 - INFO - Splitting 1 document(s) into chunks.
+2025-10-03 14:09:05,746 - INFO - Created 1 new chunks.
+2025-10-03 14:09:07,409 - INFO - Use pytorch device_name: cpu
+2025-10-03 14:09:07,409 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-03 14:09:12,059 - INFO - Initializing vector store...
+2025-10-03 14:09:12,751 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-10-03 14:09:12,925 - INFO - Adding 1 new chunks to the vector store.
+2025-10-03 14:09:13,190 - INFO - Successfully updated the vector store.
+2025-10-03 14:09:13,191 - INFO - --- Ingestion process completed successfully ---
+2025-10-03 16:09:47,666 - INFO - --- Starting ingestion process ---
+2025-10-03 16:09:47,666 - INFO - Scanning directory: documents
+2025-10-03 16:09:47,667 - INFO - Loading new/modified file: documents\test.md
+2025-10-03 16:09:51,867 - INFO - Splitting 1 document(s) into chunks.
+2025-10-03 16:09:51,868 - INFO - Created 1 new chunks.
+2025-10-03 16:09:53,204 - INFO - Use pytorch device_name: cpu
+2025-10-03 16:09:53,204 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-03 16:09:57,872 - INFO - Initializing vector store...
+2025-10-03 16:09:58,398 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-10-03 16:09:58,574 - INFO - Adding 1 new chunks to the vector store.
+2025-10-03 16:09:58,683 - INFO - Successfully updated the vector store.
+2025-10-03 16:09:58,684 - INFO - --- Ingestion process completed successfully ---
+2025-10-03 16:23:10,897 - INFO - --- Starting ingestion process ---
+2025-10-03 16:23:10,915 - INFO - Scanning directory: documents
+2025-10-03 16:23:10,916 - INFO - Loading new/modified file: documents\oscp-cpts-notes\README.md
+2025-10-03 16:23:15,734 - INFO - Loading new/modified file: documents\oscp-cpts-notes\SUMMARY.md
+2025-10-03 16:23:15,775 - INFO - Loading new/modified file: documents\oscp-cpts-notes\active-directory-attacks\credentialed-enumeration-from-linux.md
+2025-10-03 16:23:15,829 - INFO - Loading new/modified file: documents\oscp-cpts-notes\active-directory-attacks\credentialed-enumeration-from-windows.md
+2025-10-03 16:23:16,132 - INFO - Loading new/modified file: documents\oscp-cpts-notes\active-directory-attacks\enumeration.md
+2025-10-03 16:23:16,198 - INFO - Loading new/modified file: documents\oscp-cpts-notes\active-directory-attacks\gathering-users-and-password-policies.md
+2025-10-03 16:23:16,248 - INFO - Loading new/modified file: documents\oscp-cpts-notes\active-directory-attacks\initial-foothold.md
+2025-10-03 16:23:16,314 - INFO - Loading new/modified file: documents\oscp-cpts-notes\active-directory-attacks\kerberoasting-from-linux.md
+2025-10-03 16:23:16,349 - INFO - Loading new/modified file: documents\oscp-cpts-notes\active-directory-attacks\kerberoasting-from-windows.md
+2025-10-03 16:23:16,442 - INFO - Loading new/modified file: documents\oscp-cpts-notes\active-directory-attacks\password-spraying.md
+2025-10-03 16:23:16,491 - INFO - Loading new/modified file: documents\oscp-cpts-notes\active-directory-attacks\README.md
+2025-10-03 16:23:16,533 - INFO - Loading new/modified file: documents\oscp-cpts-notes\beyond-oscp-cpts\red-teaming\README.md
+2025-10-03 16:23:16,554 - INFO - Loading new/modified file: documents\oscp-cpts-notes\beyond-oscp-cpts\red-teaming\windows-local-persistence\abusing-scheduled-tasks.md
+2025-10-03 16:23:16,589 - INFO - Loading new/modified file: documents\oscp-cpts-notes\beyond-oscp-cpts\red-teaming\windows-local-persistence\abusing-services.md
+2025-10-03 16:23:16,628 - INFO - Loading new/modified file: documents\oscp-cpts-notes\beyond-oscp-cpts\red-teaming\windows-local-persistence\backdooring-files.md
+2025-10-03 16:23:16,699 - INFO - Loading new/modified file: documents\oscp-cpts-notes\beyond-oscp-cpts\red-teaming\windows-local-persistence\backdooring-the-login-screen-rdp.md
+2025-10-03 16:23:16,764 - INFO - Loading new/modified file: documents\oscp-cpts-notes\beyond-oscp-cpts\red-teaming\windows-local-persistence\logon-triggered-persistence.md
+2025-10-03 16:23:16,818 - INFO - Loading new/modified file: documents\oscp-cpts-notes\beyond-oscp-cpts\red-teaming\windows-local-persistence\persisting-through-existing-services.md
+2025-10-03 16:23:17,296 - INFO - Loading new/modified file: documents\oscp-cpts-notes\beyond-oscp-cpts\red-teaming\windows-local-persistence\README.md
+2025-10-03 16:23:17,327 - INFO - Loading new/modified file: documents\oscp-cpts-notes\beyond-oscp-cpts\red-teaming\windows-local-persistence\tampering-with-unprivileged-accounts.md
+2025-10-03 16:23:17,378 - INFO - Loading new/modified file: documents\oscp-cpts-notes\linux-privilege-escalation\capabilities.md
+2025-10-03 16:23:17,430 - INFO - Loading new/modified file: documents\oscp-cpts-notes\linux-privilege-escalation\cron-job.md
+2025-10-03 16:23:17,483 - INFO - Loading new/modified file: documents\oscp-cpts-notes\linux-privilege-escalation\exploiting-nfs-weak-permission.md
+2025-10-03 16:23:17,520 - INFO - Loading new/modified file: documents\oscp-cpts-notes\linux-privilege-escalation\gathering-information-of-the-system.md
+2025-10-03 16:23:17,563 - INFO - Loading new/modified file: documents\oscp-cpts-notes\linux-privilege-escalation\group-based.md
+2025-10-03 16:23:17,668 - INFO - Loading new/modified file: documents\oscp-cpts-notes\linux-privilege-escalation\python-library-hijacking.md
+2025-10-03 16:23:17,726 - INFO - Loading new/modified file: documents\oscp-cpts-notes\linux-privilege-escalation\README.md
+2025-10-03 16:23:17,748 - INFO - Loading new/modified file: documents\oscp-cpts-notes\linux-privilege-escalation\shared-object-manipulation.md
+2025-10-03 16:23:17,792 - INFO - Loading new/modified file: documents\oscp-cpts-notes\linux-privilege-escalation\sudo-+-ld_preload-shared-libraries.md
+2025-10-03 16:23:17,844 - INFO - Loading new/modified file: documents\oscp-cpts-notes\linux-privilege-escalation\suid-privilege-escalation.md
+2025-10-03 16:23:17,893 - INFO - Loading new/modified file: documents\oscp-cpts-notes\pivoting-and-tunneling\dynamic-port-forwarding.md
+2025-10-03 16:23:17,934 - INFO - Loading new/modified file: documents\oscp-cpts-notes\pivoting-and-tunneling\ligolo-ng.md
+2025-10-03 16:23:17,998 - INFO - Loading new/modified file: documents\oscp-cpts-notes\pivoting-and-tunneling\local-port-forwarding.md
+2025-10-03 16:23:18,031 - INFO - Loading new/modified file: documents\oscp-cpts-notes\pivoting-and-tunneling\README.md
+2025-10-03 16:23:18,068 - INFO - Loading new/modified file: documents\oscp-cpts-notes\pivoting-and-tunneling\remote-port-forwarding.md
+2025-10-03 16:23:18,107 - INFO - Loading new/modified file: documents\oscp-cpts-notes\windows-privilege-escalation\credential-theft.md
+2025-10-03 16:23:18,202 - INFO - Loading new/modified file: documents\oscp-cpts-notes\windows-privilege-escalation\gathering-information-of-the-system.md
+2025-10-03 16:23:18,254 - INFO - Loading new/modified file: documents\oscp-cpts-notes\windows-privilege-escalation\README.md
+2025-10-03 16:23:18,278 - INFO - Loading new/modified file: documents\oscp-cpts-notes\windows-privilege-escalation\group-privileges\always-install-elevated.md
+2025-10-03 16:23:18,316 - INFO - Loading new/modified file: documents\oscp-cpts-notes\windows-privilege-escalation\group-privileges\backup-operators.md
+2025-10-03 16:23:18,360 - INFO - Loading new/modified file: documents\oscp-cpts-notes\windows-privilege-escalation\group-privileges\dnsadmins.md
+2025-10-03 16:23:18,405 - INFO - Loading new/modified file: documents\oscp-cpts-notes\windows-privilege-escalation\group-privileges\event-log-readers.md
+2025-10-03 16:23:18,461 - INFO - Loading new/modified file: documents\oscp-cpts-notes\windows-privilege-escalation\group-privileges\hyper-v-administrators.md
+2025-10-03 16:23:18,494 - INFO - Loading new/modified file: documents\oscp-cpts-notes\windows-privilege-escalation\group-privileges\print-operators.md
+2025-10-03 16:23:18,544 - INFO - Loading new/modified file: documents\oscp-cpts-notes\windows-privilege-escalation\group-privileges\README.md
+2025-10-03 16:23:18,598 - INFO - Loading new/modified file: documents\oscp-cpts-notes\windows-privilege-escalation\group-privileges\server-operators.md
+2025-10-03 16:23:18,626 - INFO - Loading new/modified file: documents\oscp-cpts-notes\windows-privilege-escalation\user-privileges\README.md
+2025-10-03 16:23:18,692 - INFO - Loading new/modified file: documents\oscp-cpts-notes\windows-privilege-escalation\user-privileges\sedebugprivilege.md
+2025-10-03 16:23:18,755 - INFO - Loading new/modified file: documents\oscp-cpts-notes\windows-privilege-escalation\user-privileges\seimpersonateprivilege-and-seassignprimarytoken.md
+2025-10-03 16:23:18,809 - INFO - Loading new/modified file: documents\oscp-cpts-notes\windows-privilege-escalation\user-privileges\setakeownershipprivilege.md
+2025-10-03 16:23:18,903 - INFO - Splitting 50 document(s) into chunks.
+2025-10-03 16:23:18,905 - INFO - Created 167 new chunks.
+2025-10-03 16:23:20,042 - INFO - Use pytorch device_name: cpu
+2025-10-03 16:23:20,042 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-03 16:23:24,357 - INFO - Initializing vector store...
+2025-10-03 16:23:24,608 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-10-03 16:23:24,714 - INFO - Adding 167 new chunks to the vector store.
+2025-10-03 16:23:27,282 - INFO - Successfully updated the vector store.
+2025-10-03 16:23:27,282 - INFO - --- Ingestion process completed successfully ---
