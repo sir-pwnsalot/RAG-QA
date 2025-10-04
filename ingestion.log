@@ -83,3 +83,6 @@
 2025-10-03 16:23:24,714 - INFO - Adding 167 new chunks to the vector store.
 2025-10-03 16:23:27,282 - INFO - Successfully updated the vector store.
 2025-10-03 16:23:27,282 - INFO - --- Ingestion process completed successfully ---
+2025-10-03 18:03:44,718 - INFO - --- Starting ingestion process ---
+2025-10-03 18:03:44,719 - INFO - Scanning directory: documents
+2025-10-03 18:03:44,722 - INFO - No new or modified documents to process. Exiting.
